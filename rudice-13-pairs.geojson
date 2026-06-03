@@ -233,6 +233,18 @@
       "properties": {},
       "geometry": {
         "coordinates": [
+          16.728187,
+          49.331813
+        ],
+        "type": "Point"
+      },
+      "id": "11ee4028dfcff924b84f79db6af4cad2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
           16.726852,
           49.332039
         ],
@@ -275,6 +287,18 @@
         "type": "Point"
       },
       "id": "14da7cc28a8f30663e0fed3d1878eb23"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          16.721943,
+          49.34064
+        ],
+        "type": "Point"
+      },
+      "id": "14e3bad5bc135c1e1061a26971cb000a"
     },
     {
       "type": "Feature",
@@ -461,6 +485,18 @@
       "properties": {},
       "geometry": {
         "coordinates": [
+          16.722549,
+          49.340671
+        ],
+        "type": "Point"
+      },
+      "id": "1dbd9c02d90e0dad27e2df613e414abf"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
           16.72662,
           49.331032
         ],
@@ -503,6 +539,18 @@
         "type": "Point"
       },
       "id": "1ea8282c342d513a901c687d68fbd3fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          16.71949,
+          49.337328
+        ],
+        "type": "Point"
+      },
+      "id": "1ee494044155a240c6a0a51f98565ecd"
     },
     {
       "type": "Feature",
@@ -865,6 +913,18 @@
         "type": "Point"
       },
       "id": "312121d6b46d9a9fba8b6c97e110855e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          16.728672,
+          49.332629
+        ],
+        "type": "Point"
+      },
+      "id": "31966636074535b6389d30f3c4b962d8"
     },
     {
       "type": "Feature",
@@ -1570,7 +1630,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 30
+        "Domu": 31
       },
       "geometry": {
         "coordinates": [
@@ -1580,8 +1640,8 @@
               49.337018
             ],
             [
-              16.719173,
-              49.337483
+              16.719456,
+              49.337465
             ],
             [
               16.720831,
@@ -2442,7 +2502,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 27
+        "Domu": 28
       },
       "geometry": {
         "coordinates": [
@@ -2508,6 +2568,40 @@
         "type": "Point"
       },
       "id": "7b644802eb482df76904221032ec89c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bytu": 14
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              16.725758,
+              49.336369
+            ],
+            [
+              16.726244,
+              49.336382
+            ],
+            [
+              16.726283,
+              49.336012
+            ],
+            [
+              16.725766,
+              49.336007
+            ],
+            [
+              16.725758,
+              49.336369
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7bca46e9e10f34a2d6333c303fe833da"
     },
     {
       "type": "Feature",
@@ -3113,6 +3207,18 @@
       "properties": {},
       "geometry": {
         "coordinates": [
+          16.727759,
+          49.337604
+        ],
+        "type": "Point"
+      },
+      "id": "9f5a93cde74c3dd254c764847df6444a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
           16.722055,
           49.337018
         ],
@@ -3392,7 +3498,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 28
+        "Domu": 27
       },
       "geometry": {
         "coordinates": [
@@ -3574,7 +3680,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 27
+        "Domu": 29
       },
       "geometry": {
         "coordinates": [
@@ -3616,8 +3722,8 @@
               49.340748
             ],
             [
-              16.722092,
-              49.34036
+              16.721724,
+              49.340781
             ],
             [
               16.721832,
@@ -4009,7 +4115,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 27
+        "Domu": 30
       },
       "geometry": {
         "coordinates": [
@@ -4313,8 +4419,8 @@
         "coordinates": [
           [
             [
-              16.719356,
-              49.337452
+              16.719755,
+              49.337233
             ],
             [
               16.721837,
@@ -4349,8 +4455,8 @@
               49.336481
             ],
             [
-              16.719356,
-              49.337452
+              16.719755,
+              49.337233
             ]
           ]
         ],
@@ -4450,7 +4556,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Domu": 32
+        "Domu": 31
       },
       "geometry": {
         "coordinates": [
@@ -4468,7 +4574,7 @@
               49.337422
             ],
             [
-              16.724099,
+              16.724098,
               49.337294
             ],
             [
@@ -4484,12 +4590,12 @@
               49.336658
             ],
             [
-              16.725828,
-              49.336055
+              16.726317,
+              49.336394
             ],
             [
-              16.726313,
-              49.336156
+              16.727906,
+              49.33651
             ],
             [
               16.72993,
@@ -4834,12 +4940,12 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          16.725638,
-          49.332996
+          16.72709,
+          49.331768
         ],
         "type": "Point"
       },
-      "id": "fc26db48de38356edf61cedfd555728e"
+      "id": "fb191daf07940920fa6cff6ac560c003"
     },
     {
       "type": "Feature",
